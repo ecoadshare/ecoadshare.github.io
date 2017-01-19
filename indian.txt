@@ -1,0 +1,6 @@
+<item>
+<title>Channel I</title>
+<link>http://edge3.digijadoo.net/hls/channel_i_hi/index.m3u8</link>
+<thumbnail>https://lh4.googleusercontent.com/1rv7wXArY4D0Y1SrhQK7MqUdp7Vy4XzdZdbeYNxHGRQ5st5dajfgtxRTh47UTD4FHX28MB4_QLxNLhc=w1366-h658</thumbnail>
+<fanart></fanart>
+</item>
