@@ -1,6 +1,90 @@
 <item>
-<title>Channel I</title>
-<link>http://edge3.digijadoo.net/hls/channel_i_hi/index.m3u8</link>
-<thumbnail>https://lh4.googleusercontent.com/1rv7wXArY4D0Y1SrhQK7MqUdp7Vy4XzdZdbeYNxHGRQ5st5dajfgtxRTh47UTD4FHX28MB4_QLxNLhc=w1366-h658</thumbnail>
+<title>Star Jalsha</title>
+<link></link>
+<thumbnail>http://i.imgur.com/DU9dpaq.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Zee Bangla</title>
+<link>http://edge3.digijadoo.net/hls/zee_bangla_hi/index.m3u8</link>
+<thumbnail>http://i.imgur.com/qmcmelh.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jalsha Movies</title>
+<link></link>
+<thumbnail>http://i.imgur.com/1Oi6TqE.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Zee Bangla Cinema</title>
+<link></link>
+<thumbnail>http://i.imgur.com/pe5NnFd.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sony Max</title>
+<link></link>
+<thumbnail>http://i.imgur.com/XVpRhFL.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sony Six</title>
+<link></link>
+<thumbnail>http://i.imgur.com/VQGJ5zi.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Star Gold</title>
+<link>http://edge3.digijadoo.net/hls/star_gold.m3u8</link>
+<thumbnail>http://i.imgur.com/Op7zMhq.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Zee Cinema</title>
+<link>http://edge3.digijadoo.net/hls/zee_cinema_hi/index.m3u8</link>
+<thumbnail>http://i.imgur.com/pZ4MLfY.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Zee Classic</title>
+<link>http://edge3.digijadoo.net/hls/zee_classic_hi/index.m3u8</link>
+<thumbnail>http://i.imgur.com/lhpuWRX.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
