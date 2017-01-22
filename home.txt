@@ -6,7 +6,7 @@
 <channel>
 <name>Bangla</name>
 <thumbnail>http://i.imgur.com/1YeE1VW.jpg</thumbnail>
-<externallink>http://pixelgenic.net/kodi/bangla.txt</externallink>
+<externallink>https://ecoadshare.github.io/bangla.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -14,7 +14,7 @@
 <channel>
 <name>Indian</name>
 <thumbnail>http://i.imgur.com/IHlaXMl.jpg</thumbnail>
-<externallink>http://pixelgenic.net/kodi/indian.txt</externallink>
+<externallink>https://ecoadshare.github.io/indian.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
