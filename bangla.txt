@@ -42,7 +42,7 @@
 
 <item>
 <title>GTV</title>
-<link></link>
+<utube>https://www.youtube.com/watch?v=YO_kWRPCP7M</utube>
 <thumbnail>http://i.imgur.com/GgUJNhp.jpg</thumbnail>
 <fanart></fanart>
 </item>
