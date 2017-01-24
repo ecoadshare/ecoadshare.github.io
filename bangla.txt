@@ -21,7 +21,7 @@
 
 <item>
 <title>RTV</title>
-<link></link>
+<link>http://109.123.116.246:1935/c2VydmVyX3RpbWU9OS8yNi8yMDE1IDExOjQ5OjE5IEFNJmhhc2hfdmFsdWU9dmVZS3JkajdpV09lcnZwYkZKOEYrUT09JnZhbGlkbWludXRlcz0yMDE/rtvbdoffice.stream/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/Zj2uCKJ.jpg</thumbnail>
 <fanart></fanart>
 </item>
